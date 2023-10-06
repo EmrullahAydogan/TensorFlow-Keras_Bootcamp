@@ -1,2 +1,2 @@
 # TensorFlow-Keras_Bootcamp
-TensorFlow-Keras Bootcamp (OpneCV Academy)
+TensorFlow-Keras Bootcamp (OpenCV Academy)
